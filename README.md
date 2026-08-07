@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joerg
-- 👀 I’m am manager of a DevOps department in a software company
-- 🌱 My expertise is AWS Cloud Services, software migration to SaaS/PaaS, Monitoring (in special Prometheus/Grafana) and a little bit Java and C
+- 👀 I’m a CISO, Data Protection Officer and manager of a DevOps department in a software company
+- 🌱 My expertise is AWS Cloud Services, software migration to SaaS/PaaS, Monitoring (in special Prometheus/Grafana) and a little bit Java, C, C++ and Python
 - 💞️ We as company using more than 70% of OpenSource products and supporting them 
 
 
